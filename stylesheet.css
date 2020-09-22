@@ -1,0 +1,27 @@
+body {
+  
+font-family: "Boogaloo";
+
+}
+.header{
+background-color:#3c3c3c;
+color:#ffffff;
+height:90px;
+}
+.header-logo{
+font-size:36px;
+padding:20px 40px;
+
+.main{
+
+background-color:#b4b4b4;
+ 
+height:600px;
+
+}
+
+.footer{
+background-color:#3c3c3c;
+height:270px;
+
+}
