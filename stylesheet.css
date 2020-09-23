@@ -1,27 +1,35 @@
 body {
-  
 font-family: "Boogaloo";
-
 }
+
 .header{
 background-color:#3c3c3c;
 color:#ffffff;
-height:90px;
+height:100px;
 }
 .header-logo{
-font-size:36px;
+float:left;
+font-size:52px;
 padding:20px 40px;
+}
+.header-logo span{
+color:#DAA520
+}
+.header-list{
+font-size:14px;
+float:right;
+padding:0px 40px;
+}
 
 .main{
-
-background-color:#b4b4b4;
- 
-height:600px;
-
+background-color:#DCDCDC;
+padding:40px 80px;
+height:500px;
 }
 
 .footer{
 background-color:#3c3c3c;
-height:270px;
-
+color:#ffffff;
+height:40px;
+padding-top:20px;
 }
