@@ -23,10 +23,11 @@ padding:0px 40px;
 }
 
 .main{
-background-color:#ffffff;
-text-align:left;
-padding:40px 80px;
-height:480px;
+  padding: 180px 0 100px 0;            
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);            
+  backgroun d-size: cover;            
+  color: white;            
+  text-align: center;           
 }
 .main h1{
   font-size:48px;
