@@ -22,14 +22,14 @@ padding:0px 40px;
 }
 
 .main{
-background-color:#DCDCDC;
+background-image:url(https://github.com/alifarfiansyah/arfiansyah/commit/a390b1a8c2fcbcfd83821872e02d352a3cd67b7a);
+background-size:cover;
 padding:40px 80px;
 height:500px;
 }
 
 .footer{
-background-image:url(https://github.com/alifarfiansyah/arfiansyah/commit/a390b1a8c2fcbcfd83821872e02d352a3cd67b7a);
-background-size:cover;
+background-color:#3c3c3c;
 color:#ffffff;
 height:40px;
 padding-top:20px;
