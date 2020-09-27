@@ -23,9 +23,9 @@ padding:0px 40px;
 }
 
 .main{
-background-image:"Project21.png";
-background-size:cover;
+background-color:#ffffff;
 text-align:center;
+padding:40px 80px;
 height:500px;
 }
 
@@ -33,6 +33,5 @@ height:500px;
 background-color:#3c3c3c;
 color:#ffffff;
 height:40px;
-
 padding-top:20px;
 }
