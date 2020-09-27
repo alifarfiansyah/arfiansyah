@@ -1,36 +1,39 @@
 body {
-  font-family: "Boogaloo";
-}
+  
+font-family: "Boogaloo";
 
+}
 .header{
-  background-color:#3c3c3c;
-  color:#ffffff;
-  height:100px;
+background-color:#3c3c3c;
+color:#ffffff;
+height:100px;
 }
 .header-logo{
-  float:left;
-  font-size:52px;
-  padding:20px 40px;
+float:left;
+font-size:52px;
+padding:20px 40px;
 }
 .header-logo span{
-  color:#DAA520
+color:#DAA520
 }
 .header-list{
-  font-size:14px;
-  float:right;
-  padding:0px 40px;
+font-size:14px;
+float:right;
+padding:0px 40px;
 }
 
 .main{
-  background-image:url(https://github.com/alifarfiansyah/arfiansyah/commit/a390b1a8c2fcbcfd83821872e02d352a3cd67b7a);
-  background-size:cover;
-  padding:40px 80px;
-  height:500px;
+background-image:url(https://github.com/alifarfiansyah/arfiansyah/commit/a390b1a8c2fcbcfd83821872e02d352a3cd67b7a);
+background-size:cover;
+text-align:center;
 }
 
+
+
 .footer{
-  background-color:#3c3c3c;
-  color:#ffffff;
-  height:40px;
-  padding-top:20px;
+background-color:#3c3c3c;
+color:#ffffff;
+height:40px;
+
+padding-top:20px;
 }
