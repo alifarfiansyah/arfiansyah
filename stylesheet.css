@@ -25,8 +25,8 @@ padding:0px 40px;
 .main{
   padding: 180px 0 100px 0;            
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);            
-  backgroun d-size: cover;            
-  color: white;            
+  background-size: cover;            
+  color: #ffffff;            
   text-align: center;           
 }
 .main h1{
