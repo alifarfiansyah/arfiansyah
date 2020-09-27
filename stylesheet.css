@@ -24,9 +24,17 @@ padding:0px 40px;
 
 .main{
 background-color:#ffffff;
-text-align:center;
 padding:40px 80px;
 height:480px;
+}
+.main h1{
+  font-size:48px;
+}
+.main h2{
+  font-size:24px;
+}
+.main p{
+  font-size:14px;
 }
 
 .footer{
