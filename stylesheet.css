@@ -26,7 +26,8 @@ padding: 40px 80px;
 background-image: url(https://github.com/alifarfiansyah/arfiansyah/blob/master/Project21.png);            
 background-size: cover;            
 color: #000000;            
-text-align: center;           
+text-align: center;      
+height:100%;
 }
 .main h1{
 font-size:48px;
