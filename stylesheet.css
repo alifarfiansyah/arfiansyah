@@ -23,10 +23,8 @@ padding:0px 40px;
 
 .main{
 padding: 40px 80px;            
-background-image: url(https://user-images.githubusercontent.com/71677284/94498298-fdcb4480-0223-11eb-85da-c0b5e70bf19a.png);            
-background-size: cover;            
-color: #000000;            
-text-align: center;      
+background-color:#ffFfff;       
+color: #000000;               
 height:480px;
 }
 
