@@ -40,8 +40,10 @@ body {
   font-size:28px;
 }
 .isian{
-  float:left;
-  margin-right:30px;
+  width:50%;
+}
+.isian h1{
+  font-size:28px;
 }
 .isian p{
   font-size:24px;
