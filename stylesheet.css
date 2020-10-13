@@ -60,6 +60,7 @@ body {
 }
 .judul-berita{
   color:#000000;
+  margin-bottom:0;
   text-align:center;
   font-size:24px;
 }
