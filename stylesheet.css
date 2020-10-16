@@ -51,11 +51,12 @@ body {
   background-opacity:0.6;
   color:#ffffff;
   height:300px;
-  font-size:32px;
   text-align:center;
   padding-top:300px;
 }
 .main a{
+  font-size:54px;
+  color:#ffffff;
   text-decoration:none;
 }
 .main a:hover{
