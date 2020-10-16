@@ -55,12 +55,12 @@ body {
   padding-top:300px;
 }
 .main a{
-  font-size:54px;
+  font-size:48px;
   color:#ffffff;
   text-decoration:none;
 }
 .main a:hover{
-  color:#ff0000;
+  opacity:0.5;
   transition-duration: 0.5s;
 }
 
@@ -92,6 +92,14 @@ body {
   font-size:24px;
   color:#000000;
 }
+.berita-list a{
+  color:#000000;
+  text-decoration:none;
+}
+.berita-list a:hover{
+  color:#ff0000;
+  transition-duration: 0.5s;
+}  
 .berita-list{
   float:left;
   width:33.3%;
