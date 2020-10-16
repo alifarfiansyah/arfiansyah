@@ -48,6 +48,7 @@ body {
 .main{
   background-image:url(https://raw.githubusercontent.com/alifarfiansyah/ligadagelan/master/bola.jpg);
   backgroud-size:cover;
+  background-opacity:0.6;
   color:#ffffff;
   height:300px;
   font-size:32px;
