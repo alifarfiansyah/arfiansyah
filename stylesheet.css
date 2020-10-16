@@ -55,6 +55,13 @@ body {
   text-align:center;
   padding-top:300px;
 }
+.main a{
+  text-decoration:none;
+}
+.main a:hover{
+  color:#ff0000;
+  transition-duration: 0.5s;
+}
 
 .berita{
   height:480px;
